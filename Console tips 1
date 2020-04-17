@@ -1,0 +1,7 @@
+//Quickly create several files at once//
+$touch course-{description,video,tags}.js
+
+$ls -l
+course-description.js
+course-video.js
+course-tags.js
