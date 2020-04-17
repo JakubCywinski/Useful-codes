@@ -24,3 +24,22 @@ All links will be automatically opened in a new window.
 Description:
 Creates a horizontal line separating the header from the paragraph.
 -------------------------------------
+
+3.-----------------------------------
+<body>
+  <pre>
+  ̿  '\̵͇̿̿\з=( ͠° ͟ʖ ͡°)=ε/̵͇̿̿/'̿̿ ̿ ̿ ̿ ̿ ̿
+     ﴾͡๏̯͡๏﴿ O'RLY?
+    ||
+    ||
+    ""
+  </pre>
+</body>
+
+Description:
+The <pre> tag stands for "Preformatted text" and might help!
+Whitespace inside this element is displayed exactly as written. 
+
+Particularly useful to display code blocks too!
+-------------------------------------
+
